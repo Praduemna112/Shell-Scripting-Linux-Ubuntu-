@@ -1,0 +1,14 @@
+#!bin/bash
+
+echo "enter a no "
+
+read num
+
+for (( i=1;i<=num;i++))
+do
+for (( j=0;j<=num-i;j++ ))
+do
+echo -n "*"
+done
+echo " "
+done
