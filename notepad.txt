@@ -1,0 +1,26 @@
+nodejs
+
+sudo apt update
+node -v
+sudo apt update nodejs
+git clone
+npm install
+sudo apt npm install
+npm install
+node server.js
+
+
+putty
+
+sudo apt update
+docker -v
+sudo apt install docker.io
+sudo docker images
+sudo docker ps
+sudo docker pull nginx
+check-sudo docker images
+	sudo docker ps
+sudo docker run --name tfl -d -p 8000:80 nginx
+sudo docker bulid -t konta pn name
+sudo docker run --name xyz -d -p 8000:8000 build name
+
